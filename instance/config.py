@@ -1,0 +1,3 @@
+NEWS_API_KEY ='a7c82e01873d4300a2317a0bfd25f4c5'
+SECRET_KEY = '123456789'
+NEWS_SOURCES_BASE_URL='https://newapi.org/v2/sources?category&apiKey=a7c82e01873d4300a2317a0bfd25f4c5'
