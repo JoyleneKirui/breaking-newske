@@ -5,11 +5,11 @@ class Review:
     def __init__(self,news_id,title,name,author,description,url, urlToImage,publishedAt,content):
         self.new_id = new_id
         self.title = title
-        self.name= name
+        self.name = name
         self.author=author
         self.description=description
-        self.url=link
-        self.  urlToImage= imageurl
+        self.url= link
+        self.urlToImage= imageurl
         self.publishedAt = date
         self.content=content
        
