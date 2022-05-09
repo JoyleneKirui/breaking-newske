@@ -29,7 +29,7 @@ News API https://newsapi.org/
 ## Installation and SetUp
 1. Open Terminal {Ctrl+Alt+T}
 
-2. git clone https://github.com/JoyleneKIrui/Password-Locker.git
+2. git clone https://github.com/JoyleneKIrui/breaking-newske.git
 
 3. cd Password-Locker
 
