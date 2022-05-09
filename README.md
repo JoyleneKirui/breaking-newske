@@ -1,12 +1,10 @@
-## Breaking-Newske
+# Breaking-Newske
 
-# Author
-Joylene Kirui 
 
-# Descrption 
+## Description 
 It is an application that will list and previews news articles from various sources. 
 
-# Prerequiites
+## Prerequisites
 Python3.8 
 Internet connection 
 For windows users: GitBash For linux/ubuntu users : Git
@@ -14,7 +12,7 @@ Set up Flask
 Create a Virtual Environment.
 News API https://newsapi.org/ 
 
-# Technologies used
+## Technologies used
 - Python 3.8
 - HTML and CSS
 - Bootstrap
@@ -31,12 +29,11 @@ News API https://newsapi.org/
 
 2. git clone https://github.com/JoyleneKIrui/breaking-newske.git
 
-3. cd Password-Locker
+3. cd breaking-newske
 
 4. code . or atom . based on the text editor you have.
 
 5. Run the application
-
 
 ## Known Bugs
 There are no known bugs 
