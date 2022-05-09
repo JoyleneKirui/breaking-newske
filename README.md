@@ -1,12 +1,9 @@
-## Breaking-Newske
+# Breaking-Newske
 
-# Author
-Joylene Kirui 
+## Descrption 
+It is an application that lists and previews news articles from various sources. 
 
-# Descrption 
-It is an application that will list and previews news articles from various sources. 
-
-# Prerequiites
+## Prerequiites
 Python3.8 
 Internet connection 
 For windows users: GitBash For linux/ubuntu users : Git
@@ -14,7 +11,7 @@ Set up Flask
 Create a Virtual Environment.
 News API https://newsapi.org/ 
 
-# Technologies used
+## Technologies used
 - Python 3.8
 - HTML and CSS
 - Bootstrap
@@ -37,6 +34,8 @@ News API https://newsapi.org/
 
 5. Run the application
 
+## Live link
+https://breaking-newske.herokuapp.com/
 
 ## Known Bugs
 There are no known bugs 
