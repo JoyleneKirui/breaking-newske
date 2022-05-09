@@ -3,32 +3,16 @@
 # Author
 Joylene Kirui 
 
-
 # Descrption 
-News highlight is project that will contain the  the differences news and the users will be able to views differences types of the news that will be accouring in my  website it will date  that news has published and also it will also has the name of that news.
-# Instruction
-On the homepage user will see form that will have option of reseaching the name of the news and some description of the news and also some there will be a buttom  to cleck for the more detals about the new after clicking there  users will the differences news according to the type of news.user can be able to views and make some views on the news.
-# Test Driven Development -TDD
-inter the name of news   submit Read the name of the  News views the  news  you  can see the Image there articles the  date has been wrotten that news.
-
-ecifications
- # Behavior     View Articles on Everything
- 
-
+It is an application that will list and previews news articles from various sources. 
 
 # Prerequiites
-- Python 3.8
- 
-## Set-up and Installation
-Prerequisites python3.8 
-Good internet connection 
+Python3.8 
+Internet connection 
 For windows users: GitBash For linux/ubuntu users : Git
 Set up Flask
 Create a Virtual Environment.
-Geting the News API ** To get our NEWS data through The News Database API, head on to https://newsapi.org/ and sign up for an account. ** Creating an API key ** First go to your accounts settings pageAccount settings ** Then click on the API menu on the leftApi Menu ** Click on create an API Key to generate a new API keyGenerate api key
-
-## Known bugs
-No known errors if found drop a message on my profile
+News API https://newsapi.org/ 
 
 # Technologies used
 - Python 3.8
@@ -36,6 +20,58 @@ No known errors if found drop a message on my profile
 - Bootstrap
 - Flask
 
+## Behavior Driven Development
 
-## License and Copyright
+| Behaviour | Input | Output |
+| :---------------- | :---------------: | :------------------: |
+| Display various news sources | Select news source | Displays news headlines |
 
+## Installation and SetUp
+1. Open Terminal {Ctrl+Alt+T}
+
+2. git clone https://github.com/JoyleneKIrui/Password-Locker.git
+
+3. cd Password-Locker
+
+4. code . or atom . based on the text editor you have.
+
+5. Run the application
+  $| Display prompt for adding account credential | Enter username and password| Displays saved credentials| run.py
+Testing the Application
+To run the tests for the class file:
+  $ python3.6 user_credentials_test.py
+
+## Known Bugs
+There are no known bugs 
+
+## Authors
+Joylene Kirui
+
+## Authors Info 
+
+LinkedIn - [Joylene Kirui](www.linkedin.com/in/joylene-kirui-860699176)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+OPEN SOURCE
+
+Copyright (c) 2022 **Joylene Kirui**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
