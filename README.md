@@ -2,7 +2,7 @@
 
 
 ## Description 
-It is an application that will list and previews news articles from various sources. 
+It is python application that lists and previews news articles from various sources.
 
 ## Prerequisites
 Python3.8 
@@ -27,7 +27,7 @@ News API https://newsapi.org/
 ## Installation and SetUp
 1. Open Terminal {Ctrl+Alt+T}
 
-2. git clone https://github.com/JoyleneKIrui/breaking-newske.git
+2. git clone https://github.com/JoyleneKirui/breaking-newske.git
 
 3. cd breaking-newske
 
