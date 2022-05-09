@@ -4,12 +4,12 @@
 It is an application that lists and previews news articles from various sources. 
 
 ## Prerequiites
-Python3.8 
-Internet connection 
-For windows users: GitBash For linux/ubuntu users : Git
-Set up Flask
-Create a Virtual Environment.
-News API https://newsapi.org/ 
+- Python3.8 
+- Internet connection 
+- For windows users: GitBash For linux/ubuntu users : Git
+- Set up Flask
+- Create a Virtual Environment.
+- News API https://newsapi.org/ 
 
 ## Technologies used
 - Python 3.8
