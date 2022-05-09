@@ -36,10 +36,7 @@ News API https://newsapi.org/
 4. code . or atom . based on the text editor you have.
 
 5. Run the application
-  $| Display prompt for adding account credential | Enter username and password| Displays saved credentials| run.py
-Testing the Application
-To run the tests for the class file:
-  $ python3.6 user_credentials_test.py
+
 
 ## Known Bugs
 There are no known bugs 
