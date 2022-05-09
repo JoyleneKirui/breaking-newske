@@ -31,7 +31,7 @@ News API https://newsapi.org/
 
 2. git clone https://github.com/JoyleneKIrui/breaking-newske.git
 
-3. cd Password-Locker
+3. cd breaking-newske
 
 4. code . or atom . based on the text editor you have.
 
