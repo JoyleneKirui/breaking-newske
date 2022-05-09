@@ -1,9 +1,9 @@
 # Breaking-Newske
 
-## Descrption 
+## Description 
 It is an application that lists and previews news articles from various sources. 
 
-## Prerequiites
+## Prerequisites
 - Python3.8 
 - Internet connection 
 - For windows users: GitBash For linux/ubuntu users : Git
